@@ -16,7 +16,7 @@ device_pools:
     pool_type: android
     devices:
       - name: Google Pixel 3
-        model: Google Pixel 3
+        model: Pixel 3
         os: 9.0.0
   
 
