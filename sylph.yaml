@@ -5,7 +5,7 @@ artifacts_dir: /tmp/sylph_artifacts
 sylph_timeout: 720 # seconds approx
 # run on ios and android pools concurrently (for faster results)
 concurrent_runs: true
-# updatea
+# updateas
 # device farm config
 project_name: App Integration Tests
 default_job_timeout: 10 # minutes, set at project creation
@@ -17,7 +17,7 @@ device_pools:
     devices:
       - name: Google Pixel 3
         model: Google Pixel 3
-        os: 9.0.0
+        os: 9
 
  # - pool_name: ios pool 1
  #   pool_type: ios
